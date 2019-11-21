@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549621.svg)](https://doi.org/10.5281/zenodo.3549621)
+
 # Library and Archives Canada
 
 Jupyter notebooks to work with data from Library and Archives Canada.
